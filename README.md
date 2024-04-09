@@ -3,12 +3,12 @@ Bring Ted to life
 
 Next Steps 
 Hardware: 
-- install firmware
+- Install firmware
 - Design & 3d print bigger case 
-- install software
+- Install software
 
 Software: 
-- finetune mistral 
+- Finetune mistral 
 
 Later on: 
 - How to connnect speaker
