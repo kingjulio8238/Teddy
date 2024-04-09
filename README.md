@@ -2,6 +2,7 @@
 Bring Ted to life 
 
 Next Steps 
+
 Hardware: 
 - Install firmware
 - Design & 3d print bigger case 
