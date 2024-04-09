@@ -26,7 +26,7 @@ Done:
 
 <img width="486" alt="Screenshot 2024-04-08 at 8 59 44 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/7fe7f5b6-ba90-4622-b626-b58fac5eb2de">
 
-<img width="310" alt="Screenshot 2024-04-08 at 9 03 22 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/76971573-7208-4dc4-bc4f-670fa2fcffe5">
+<img width="444" alt="Screenshot 2024-04-08 at 9 11 05 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/02fb63bb-c964-431a-aa61-6eb7f99762dc">
 
 <img width="414" alt="Screenshot 2024-04-08 at 9 03 35 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/d7d8b5a7-0516-4e04-995b-5ade79234901">
 
