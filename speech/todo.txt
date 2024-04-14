@@ -1,0 +1,4 @@
+- openvoice over Ted's voice 
+- speaker integration (get a speaker)
+
+> model responses are solid 

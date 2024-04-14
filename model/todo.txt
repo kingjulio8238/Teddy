@@ -1,0 +1,2 @@
+- improve responses (less verbose)
+- integrate with transcription
