@@ -33,6 +33,6 @@ Done:
 
 <img width="440" alt="Screenshot 2024-04-08 at 9 03 53 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/cf1547c7-4a30-49c8-9d79-6ead48e34aab">
 
-<img width="440" alt="Screenshot 2024-04-14 at 12 38 37 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/dfe0af03-27b5-4b06-9d6d-7b4dcb0cf605">
+<img width="440" alt="Screenshot 2024-04-14 at 12 40 46 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/ba669553-1896-47cd-97ea-6318195866b9">
 
 
