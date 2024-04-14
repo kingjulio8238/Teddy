@@ -17,7 +17,6 @@ Done:
 - CConnect mcu & battery (hardware) 
 - Gather data (software)
 - transcribe using mcu
-- 
 
 <img width="291" alt="Screenshot 2024-04-08 at 8 59 01 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/11a49c6b-f658-4744-a2a8-c5978cb8125d">
 
