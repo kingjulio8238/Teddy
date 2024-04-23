@@ -4,10 +4,16 @@ Bring Ted to life
 Next Steps 
 
 Transcription: 
-- Redesign & 3d print bigger case 
+- Redesign & 3d print bigger case (tbd)
+- add automatic transcription
+- dynamic audio recording 
 
 Model:
-- Improve mistral responses 
+- try llama 3 8B
+- benchmarking on llama 2 
+
+Server: 
+- Openvoice added to ec2 instance  
 
 Speech: 
 - openvoice over Ted's voice
@@ -17,6 +23,7 @@ Done:
 - CConnect mcu & battery (hardware) 
 - Gather data (software)
 - transcribe using mcu
+- host llama 2 on ec2 instance 
 
 <img width="291" alt="Screenshot 2024-04-08 at 8 59 01 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/11a49c6b-f658-4744-a2a8-c5978cb8125d">
 
