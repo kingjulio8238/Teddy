@@ -4,31 +4,32 @@ Bring Ted to life
 Next Steps 
 
 Transcription: 
-- Redesign & 3d print bigger case (tbd)
-- add automatic transcription
-- dynamic audio recording (ends after 3s of no speech found)
-- use memary to store transcription & responses (clear graph for every new conversation)   
+- add automatic transcription (2)
+- dynamic audio recording (ends after 3s of no speech found) (3)
+- use llm context window/memary to store transcription & responses for context (clear graph for every new conversation) (9)
 
 Model:
 - change to llama 3 8B
 
 Server: 
-- Openvoice added to ec2 instance
-- Ollama to host llama 3 8B? 
+- sync transcription to ec2 (1)
+- Openvoice added to ec2 instance (5)
+- benchmark ollama vs server response times (8)
 
 Speech: 
-- openvoice over Ted's voice
-- speaker integration
+- openvoice over Ted's voice (4)
+- speaker integration (6) 
 
 Design: 
-- redesign & print 3d case
-- Build Teddy (insert mcu & speaker) 
+- redesign & print 3d case (7)
+- Build Teddy (insert mcu & speaker) (10)
+
 
 Done:
 - CConnect mcu & battery (hardware) 
 - Gather data (software)
 - transcribe using mcu
-- host llama 2 on ec2 instance (to change to llama 3)  
+- host llama 2 on ec2 instance   
 
 <img width="291" alt="Screenshot 2024-04-08 at 8 59 01 PM" src="https://github.com/kingjulio8238/Teddy/assets/120517860/11a49c6b-f658-4744-a2a8-c5978cb8125d">
 
