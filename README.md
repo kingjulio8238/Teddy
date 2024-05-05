@@ -9,10 +9,9 @@ Transcription:
 - use llm context window/memary to store transcription & responses for context (clear graph for every new conversation) (9)
 
 Model:
-- change to llama 3 8B
+- change to llama 3 8B (1) 
 
 Server: 
-- sync transcription to ec2 (1)
 - Openvoice added to ec2 instance (5)
 - benchmark ollama vs server response times (8)
 
