@@ -24,6 +24,8 @@ Design:
 - redesign & print 3d case (7)
 - Build Teddy (insert mcu & speaker) (10)
 
+- Documentation (11) 
+
 
 Done:
 - CConnect mcu & battery (hardware) 
